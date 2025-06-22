@@ -1,5 +1,5 @@
-package FactoryMethodPatternExample;
 
+package FactoryMethodPatternExample;
 public class WordDocument implements Document {
     String name="";
     WordDocument(String n){

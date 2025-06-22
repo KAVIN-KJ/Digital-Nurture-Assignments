@@ -1,5 +1,5 @@
-package FactoryMethodPatternExample;
 
+package FactoryMethodPatternExample;
 public class ExcelDocument implements Document {
      String name="";
     ExcelDocument(String n){
